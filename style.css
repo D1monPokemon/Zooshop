@@ -99,3 +99,14 @@ footer {
     padding: 10px;
     font-size: 20px;
 }
+nav a:hover{
+    color:brown;
+    background-color:grey;
+}
+nav a:focus{
+background-color:darkorange;
+color:green;
+}
+nav a:visited{
+    color:black;
+}
